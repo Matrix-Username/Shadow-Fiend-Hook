@@ -1,0 +1,6 @@
+[submodule "external/lsplant"]
+	path = external/lsplant
+	url = https://github.com/LSPosed/LSPlant
+[submodule "external/dobby"]
+	path = external/dobby
+	url = https://github.com/vvb2060/dobby-android
